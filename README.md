@@ -1,2 +1,26 @@
-Last updated: 2026-08-28 02:59:17 WIB
-Last updated: 2026-08-28 03:48:00 WIB
+# anto
+
+
+
+## 📋 Overview
+
+This repository contains **8 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-28 06:23:24 WIB*
